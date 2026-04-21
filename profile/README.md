@@ -1,84 +1,73 @@
-# Omar Bassam Abdul Rahman
+# Hi there! 👋 I'm Omar Bassam Abdul Rahman
 
-**Full-Stack & Mobile Developer | Computer Science Student**
+## 🚀 Full-Stack & Mobile Developer | AI Enthusiast | Computer Science Student
 
-📍 Lebanon | 📧 [omar4abedalrahman@gmail.com](mailto:omar4abedalrahman@gmail.com) | 📱 +961 76 388 543  
-🔗 [GitHub](https://github.com/Omar4Git) | [LinkedIn](https://www.linkedin.com/in/omar-abdul-rahman0)
-
----
-
-## Professional Summary
-
-Computer Science student graduating Summer 2026, specializing in full-stack and mobile development. Experienced in building scalable applications using Flutter, TypeScript, and PostgreSQL, including a real-world workshop management system. Passionate about solving practical problems through clean, efficient code and collaborative development.
+Welcome to my GitHub profile! I'm a Computer Science student at Lebanese International University (LIU) passionate about building scalable applications and leveraging AI to solve real-world problems.
 
 ---
 
-## Technical Skills
+## 💼 About Me
 
-**Languages:** Java, Python, TypeScript, PHP, SQL  
-**Frontend:** HTML, CSS, React  
-**Mobile:** Flutter  
+- 🎓 **B.S. in Computer Science** (Expected Summer 2026) - Lebanese International University
+- 📱 Specialized in **Full-Stack & Mobile Development**
+- 🤖 **AI Certified** - Google AI Professional & multiple AI specializations
+- 🌐 Based in Hrar Akkar, North Lebanon
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Java, Python, TypeScript, PHP, SQL, HTML5, CSS3  
+**Frameworks:** React, Flutter, Node.js  
 **Databases:** PostgreSQL, Drizzle ORM  
-**Tools:** Git, GitHub, VS Code, Bruno  
-**Concepts:** OOP, Data Structures, Software Engineering, Networking, AI Basics  
+**Tools:** Git, GitHub, VS Code, Bruno, Cisco Packet Tracer  
+**Concepts:** OOP, Data Structures, Software Engineering, Networking, AI Prompting
 
 ---
 
-## Education
-
-**B.S. in Computer Science**  
-Lebanese International University *(Expected Summer 2026)*
-
-**Lebanese Secondary School Certificate (SG)**
-
----
-
-## Featured Project
+## 🎯 Featured Project
 
 ### Mechanic Workshop Management System (Senior Project)
+A comprehensive full-stack mobile application that digitizes and manages mechanic workshop operations.
 
-A full-stack mobile application designed to streamline mechanic workshop operations.
-
-- **Frontend:** Flutter for cross-platform mobile experience
-- **Backend:** TypeScript for robust server-side logic
-- **Database:** PostgreSQL with Drizzle ORM for efficient data management
-- **Key Features:** Customer tracking, job management, service history
-- **Impact:** Digitized manual processes and improved workflow efficiency
-- **Collaboration:** Version control and team development using GitHub
+- **Frontend:** Flutter (Mobile App)
+- **Backend:** TypeScript with Node.js
+- **Database:** PostgreSQL with Drizzle ORM
+- **Features:** Customer tracking, job management, service history
+- **Impact:** Eliminated manual paper-based processes and improved workflow efficiency
 
 ---
 
-## Professional Experience
+## 🏆 Certifications
 
-**Restaurant Assistant** – Family Business
-- Managed customer interactions and resolved issues in fast-paced environments
-- Strengthened communication and problem-solving skills
-- Collaborated with team members to ensure smooth daily operations
-
-**Hotel Staff** – Monte-Verde Hotel *(2021–2022)*
-- Provided professional guest services and handled customer requests
-- Developed strong teamwork and interpersonal communication skills
-
----
-
-## Certifications
-
-- **CCNA: Introduction to Networks** – Cisco
-- **DOT Program** (3 Certificates):
-  - Digital & Media Literacy Training *(November 2018)*
-  - Mobile Application Development Training *(January 2019)*
-  - Microwork Training *(August 2019)*
+- ✅ **Google AI Professional Certificate** - [Verify](https://coursera.org/verify/professional-cert/G62EJQ0LAFAN)
+- ✅ **Google Prompting Essentials Specialization** - [Verify](https://coursera.org/verify/specialization/MQ88GERJK0LT)
+- ✅ **CCNA: Introduction to Networks** (Cisco Networking Academy) - Issued March 2025
+- ✅ **AI for Data Analysis** - [Verify](https://coursera.org/verify/39W933JPJ7V4)
+- ✅ **AI for Research and Insights** - [Verify](https://coursera.org/verify/64NTCGMMFUPW)
+- ✅ **AI for Content Creation** - [Verify](https://coursera.org/verify/F2JCUD5J57JW)
+- ✅ **AI for Writing and Communicating** - [Verify](https://coursera.org/verify/MTY6NSMCQN0H)
+- ✅ **AI Fundamentals** - [Verify](https://coursera.org/verify/8R71TN2MW7GV)
+- ✅ **AI for Brainstorming and Planning** - [Verify](https://coursera.org/verify/BRFZOVNFTI16)
+- ✅ **Speed Up Data Analysis and Presentation Building** - [Verify](https://coursera.org/verify/OSATJQ8UWGXK)
 
 ---
 
-## Languages
+## 🗣️ Languages
 
-🗣️ Arabic (Native) | English (Fluent) | French (Good) | Spanish (Basic)
+- 🇱🇧 **Arabic** - Native
+- 🇬🇧 **English** - Fluent
+- 🇫🇷 **French** - Good
+- 🇪🇸 **Spanish** - Basic
 
 ---
 
-## Get in Touch
+## 📬 Get in Touch
 
-Feel free to reach out for collaboration opportunities, project discussions, or just to connect!
+- **Email:** omar4abedalrahman@gmail.com
+- **LinkedIn:** [Omar Abdul Rahman](https://linkedin.com/in/omar-abdul-rahman0)
+- **Phone:** +961 76 388 543
 
-📧 [Email](mailto:omar4abedalrahman@gmail.com) | 🔗 [GitHub](https://github.com/Omar4Git) | 💼 [LinkedIn](https://www.linkedin.com/in/omar-abdul-rahman0)
+---
+
+*Last updated: April 2026*
